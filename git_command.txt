@@ -15,3 +15,8 @@ rm testing.py
  history  
  git status
  clear
+
+git add
+git commit -m
+git pull
+this are some new changes
