@@ -1,0 +1,17 @@
+git init
+ dir   
+git push
+ git status
+ git add testing.py                                                                                                  
+git commit -m "added testing files"                                                                             
+git config --globa user.name "Shravanee kabre"    
+remote -v
+origin  https://github.com/shravaneekabre167/GIT-HUB-for--devops.git (fetch)
+origin  https://github.com/shravaneekabre167/GIT-HUB-for--devops.git (push)
+clear
+git commit -m "added testing files" 
+rm testing.py                                                                                                   
+ git restore testing.py                                                                                          
+ history  
+ git status
+ clear
